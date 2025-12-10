@@ -106,19 +106,6 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/4-eventparticipated/4.4-event4/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.1-workshop-overview/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.1-workshop-overview/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.1-workshop-overview/"
-                />
-  </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/1-worklog/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -143,6 +130,19 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/"
+                />
+  </url><url>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.1-workshop-overview/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.1-workshop-overview/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.1-workshop-overview/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/1-worklog/1.1-week1/</loc>
