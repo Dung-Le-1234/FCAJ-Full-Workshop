@@ -67,6 +67,19 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/3-blogstranslated/3.2-blog2/"
                 />
   </url><url>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/5.4.1-rest-api/</loc>
+    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-api-gateway-lambda/5.4.1-rest-api/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/5.4.1-rest-api/"
+                />
+  </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/3-blogstranslated/3.1-blog1/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,17 +93,17 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/3-blogstranslated/3.1-blog1/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/</loc>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-dynamodb-s3/5.3.1-dynamodb/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.3-dynamodb-s3/5.3.1-dynamodb/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-s3-vpc/5.3.1-create-gwe/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-dynamodb-s3/5.3.1-dynamodb/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/</loc>
@@ -104,19 +117,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/"
-                />
-  </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.1-prepare/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-s3-onprem/5.4.1-prepare/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.1-prepare/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/1-worklog/1.1-week1/</loc>
@@ -184,17 +184,17 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/1-worklog/1.2-week2/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/</loc>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-dynamodb-s3/5.3.2-s3/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.3-dynamodb-s3/5.3.2-s3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.2-create-interface-enpoint/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-dynamodb-s3/5.3.2-s3/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.2-prerequiste/</loc>
@@ -223,17 +223,17 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/2-proposal/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/</loc>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/5.4.2-websocket-api/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-api-gateway-lambda/5.4.2-websocket-api/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-s3-vpc/5.3.2-test-gwe/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/5.4.2-websocket-api/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/1-worklog/1.3-week3/</loc>
@@ -249,30 +249,30 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/1-worklog/1.3-week3/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-s3-vpc/</loc>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-dynamodb-s3/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.3-s3-vpc/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.3-dynamodb-s3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-s3-vpc/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.3-dynamodb-s3/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/</loc>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/5.4.3-lambda/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-api-gateway-lambda/5.4.3-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.3-test-endpoint/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/5.4.3-lambda/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/3-blogstranslated/</loc>
@@ -301,17 +301,17 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/1-worklog/1.4-week4/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/</loc>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-s3-onprem/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-api-gateway-lambda/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-api-gateway-lambda/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/4-eventparticipated/</loc>
@@ -327,19 +327,6 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/4-eventparticipated/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/</loc>
-    <lastmod>2025-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.4-s3-onprem/5.4.4-dns-simulation/"
-                />
-  </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/1-worklog/1.5-week5/</loc>
     <lastmod>2025-10-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -353,17 +340,17 @@
                 href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/1-worklog/1.5-week5/"
                 />
   </url><url>
-    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.5-policy/</loc>
+    <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.5-ci_cd/</loc>
     <lastmod>2025-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.5-policy/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/vi/5-workshop/5.5-ci_cd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.5-policy/"
+                href="https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/5.5-ci_cd/"
                 />
   </url><url>
     <loc>https://Dung-Le-1234.github.io/FCAJ-Full-Workshop/5-workshop/</loc>
